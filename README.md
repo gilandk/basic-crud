@@ -2,10 +2,8 @@
 
 USER
 
-Sign In
-Register
+Sign In & Register
 
 ADMIN
-Register
 
-Table update using ajax
+Login & Table update using ajax
